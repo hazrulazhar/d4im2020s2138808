@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: b9d2daae9bd4f47dfb7424a0d97403cf
+  - enabled: 1
+    path: Assets/Scenes/ArtifactsScene.unity
+    guid: 1b714797d69194530b7e3f6eb7c340e3
+  - enabled: 1
+    path: Assets/Scenes/SteamerScene.unity
+    guid: bd82752c6f2914ee1ac7a43598553864
+  - enabled: 1
+    path: Assets/Scenes/AzlanShahScene.unity
+    guid: 330b4e97c094945ba9a6dd81ed65141a
+  - enabled: 1
+    path: Assets/Scenes/HarvardScene.unity
+    guid: e7f6ba8540f394649beb48bed8b5cee0
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: d525592541dbe42f193d041cced3e7e4
+  - enabled: 1
+    path: Assets/Scenes/ArtifactsBookScene.unity
+    guid: 0ec2cf4134d4349faae3b26e306b0ba8
+  - enabled: 1
+    path: Assets/Scenes/ArtifactsDiplomaScene.unity
+    guid: f07a18d6d550d409ea08e0133a942ee4
+  - enabled: 1
+    path: Assets/Scenes/ArtifactsSpoonsScene.unity
+    guid: 191535791d633437aa75fd27c69e31e4
+  m_configObjects: {}
