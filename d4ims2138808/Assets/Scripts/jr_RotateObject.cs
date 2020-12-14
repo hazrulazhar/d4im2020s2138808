@@ -1,6 +1,6 @@
 /***
 Author: Hazrul Azhar Bin Jamari, S2138808
-Original Author: Dr Julian Robinson, University of Edinburgh
+Original Author: Dr Julian Rawlinson, University of Edinburgh
 
 I rewrote the script to meet the following conditions:
 - Auto Rotate on Start
